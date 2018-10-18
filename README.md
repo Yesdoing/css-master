@@ -23,7 +23,10 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 - [x] Template Areas
         - parent { grid-template-areas: "header header header" "content content sidebar" "content content sidebar" "footer footer footer"; }
         - child { grid-area: header; }
-- [ ] fr unit, repeat
+- [x] fr unit, repeat
+        - fr : relative value 
+        - repeat function : repeat(3, 1fr) = 1fr 1fr 1fr 
+        - example = grid-template-columns: repeat(5, 1fr) 2fr;
 - [ ] minmax, max-content, min-content
 - [ ] auto-fill, auto-fit
 - [ ] Justify Content, Align Content and Place Content
