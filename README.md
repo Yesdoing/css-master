@@ -13,7 +13,13 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 ### CSS Grid
 
 - [x] CSS Grid Basics ( Row, columns and gaps)
-- [ ] Auto columns, auto rows
+        - display: grid
+        - grid-template-columns: 300px 500px;
+        - grid-template-rows: 120px 300px;
+- [x] Auto columns, auto rows
+        - grid-gap: 4px;
+        - grid-auto-rows: 200px;
+        - grid-auto-flow: row;
 - [ ] Template Areas
 - [ ] fr unit, repeat
 - [ ] minmax, max-content, min-content
