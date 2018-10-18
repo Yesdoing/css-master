@@ -20,7 +20,9 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - grid-gap: 4px;
         - grid-auto-rows: 200px;
         - grid-auto-flow: row;
-- [ ] Template Areas
+- [x] Template Areas
+        - parent { grid-template-areas: "header header header" "content content sidebar" "content content sidebar" "footer footer footer"; }
+        - child { grid-area: header; }
 - [ ] fr unit, repeat
 - [ ] minmax, max-content, min-content
 - [ ] auto-fill, auto-fit
