@@ -9,34 +9,30 @@
     <style>
         .father {
             display: grid;
-            grid-gap: 5px;
-            grid-template-columns: min-content repeat(3, 1fr);
+            grid-gap: 10px;
+            grid-auto-rows: 100px;
+            grid-template-columns: repeat(5, 100px);
+            place-content: center;
+            height: 100vh;
         }
 
-        .first {
-            background-color: yellow;
+        .box:nth-child(even) {
+            background-color: purple;
         }
 
-        .second {
-            background-color: yellowgreen;
-        }
-
-        .third {
-            background-color: aquamarine;
-        }
-
-        .fourth {
-            background-color: brown;
+        .box:nth-child(odd) {
+            background-color:darkblue;
         }
     </style>
 </head>
 
 <body>
     <div class="father">
-        <div class="first">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta sit consequuntur tempore ducimus sint voluptas vel iure, temporibus quaerat ipsum molestiae, debitis numquam maiores. Perferendis iusto temporibus in dolore rerum!</div>
-        <div class="second"></div>
-        <div class="third"></div>
-        <div class="fourth"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
     </div>
 </body>
 

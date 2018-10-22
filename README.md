@@ -32,7 +32,12 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - max-content : base max-size in containing container
         - min-content : base min-size in containing container
 - [ ] auto-fill, auto-fit
+        - auto-fill : item이 들어갈 cell들을 미리 만들어 놓고 item을 하나씩 채운다.
+        - auto-fit  : item을 stretch 해서 최대한 채운다.
 - [ ] Justify Content, Align Content and Place Content
+        - Justify Content: column을 기준으로 content을 움직인다.
+        - Align Content: row를 기준으로 content을 움직인다.
+        - Place Content: Align Content, Justify Content
 - [ ] Justify Items, Align Items and Place Items
 - [ ] Grid Column, Column Start and End
 - [ ] Line Naming
