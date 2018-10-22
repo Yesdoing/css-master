@@ -28,6 +28,9 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - repeat function : repeat(3, 1fr) = 1fr 1fr 1fr 
         - example = grid-template-columns: repeat(5, 1fr) 2fr;
 - [ ] minmax, max-content, min-content
+        - minmax: set the min~max value 
+        - max-content : base max-size in containing container
+        - min-content : base min-size in containing container
 - [ ] auto-fill, auto-fit
 - [ ] Justify Content, Align Content and Place Content
 - [ ] Justify Items, Align Items and Place Items
