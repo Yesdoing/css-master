@@ -64,8 +64,10 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 - [x] :matches , :not
         - matches : 조건에 일치하는 셀렉터만 style 적용
         - not: 조건이 아닌 셀렉터만 style 적용 
-- [ ] CSS Variables
-- [ ] @custom-selector
+- [x] CSS Variables
+        - declare css variables 
+- [x] @custom-selector
+        - 특정 셀렉터에 대한 스타일 지정 가능 
 - [ ] @custom-media
 - [ ] Media Query Ranges
 - [ ] color-mod, gray(), system-ui

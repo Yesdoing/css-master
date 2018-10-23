@@ -18,3 +18,17 @@ li:not(.target) {
     background-color: blue;
 } 
 */
+
+:root {
+    --awesomeColor : #2980b9;
+}
+
+li:first-child a {
+    color: var(--awesomeColor);
+}
+
+@custom-selector :--header h1, h2, h3, h4, h5, h6;
+
+:--header {
+    color: #8e44ad;
+}
