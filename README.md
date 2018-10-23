@@ -72,8 +72,11 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - custom-media 변수 정의
 - [x] Media Query Ranges
         - 변수 범위 지정시 <= > 와 같은 비교연산자 사용 가능 
-- [ ] color-mod, gray(), system-ui
-- [ ] Nesting Rules
+- [x] color-mod, gray(), system-ui
+        - color-mod : color에 효과 지정 가능 (작동 안함)
+        - gray() : 회색 값 설정가능 
+        - system-ui : font-family에 system-ui 선언시 그 컴퓨터가 가지고 있는 폰트 적용 가능 
+- [x] Nesting Rules
 
 ### Conclusions
 
