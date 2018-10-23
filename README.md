@@ -39,6 +39,9 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - Align Content: row를 기준으로 content을 움직인다.
         - Place Content: Align Content, Justify Content
 - [ ] Justify Items, Align Items and Place Items
+        - Justify Items : verticle을 기준으로 넓이를 줄인다. 
+        - align items : horizon을 기준으로 높이를 줄인다. 
+        - place items : 위 2 설정의 short cut이다.
 - [ ] Grid Column, Column Start and End
 - [ ] Line Naming
 - [ ] Grid Row, Row Start and End
