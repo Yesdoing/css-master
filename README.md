@@ -55,13 +55,15 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### Using CSS4
 
-- [ ] Installing Parcel
-- [ ] Configuring PostCSS
-- [ ] Testing
+- [x] Installing Parcel
+- [x] Configuring PostCSS
+- [x] Testing
 
 ### CSS4 Awesomeness
 
-- [ ] :matches , :not
+- [x] :matches , :not
+        - matches : 조건에 일치하는 셀렉터만 style 적용
+        - not: 조건이 아닌 셀렉터만 style 적용 
 - [ ] CSS Variables
 - [ ] @custom-selector
 - [ ] @custom-media
