@@ -46,7 +46,8 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - 한 셀이 column에 대해 얼마나 공간을 차지할 수 있는지 설정하는 기능
 - [x] Line Naming
         - 각 라인에 대한 이름을 부여해서 컨트롤 할 수 있다. 자주 사용 x 
-- [ ] Grid Row, Row Start and End
+- [x] Grid Row, Row Start and End
+        - span 값을 사용해서 한 셀의 크기의 값만 부여할 수 있다.
 - [ ] Grid Area
 - [ ] Justify, Align, Place Self
 
