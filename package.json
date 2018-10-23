@@ -1,0 +1,22 @@
+{
+  "name": "css-master",
+  "version": "1.0.0",
+  "description": "CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yesdoing/css-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yesdoing/css-master/issues"
+  },
+  "homepage": "https://github.com/Yesdoing/css-master#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/parcel index.html"
+  }
+}
