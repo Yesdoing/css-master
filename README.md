@@ -50,7 +50,8 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - span 값을 사용해서 한 셀의 크기의 값만 부여할 수 있다.
 - [x] Grid Area
         - grid row start / grid column start / end / end 
-- [ ] Justify, Align, Place Self
+- [x] Justify, Align, Place Self
+        - justify-self, align-self, place-self : 1 cell 에 대해서만 스타일 적용 
 
 ### Using CSS4
 
