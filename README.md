@@ -27,23 +27,25 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - fr : relative value 
         - repeat function : repeat(3, 1fr) = 1fr 1fr 1fr 
         - example = grid-template-columns: repeat(5, 1fr) 2fr;
-- [ ] minmax, max-content, min-content
+- [x] minmax, max-content, min-content
         - minmax: set the min~max value 
         - max-content : base max-size in containing container
         - min-content : base min-size in containing container
-- [ ] auto-fill, auto-fit
+- [x] auto-fill, auto-fit
         - auto-fill : item이 들어갈 cell들을 미리 만들어 놓고 item을 하나씩 채운다.
         - auto-fit  : item을 stretch 해서 최대한 채운다.
-- [ ] Justify Content, Align Content and Place Content
+- [x] Justify Content, Align Content and Place Content
         - Justify Content: column을 기준으로 content을 움직인다.
         - Align Content: row를 기준으로 content을 움직인다.
         - Place Content: Align Content, Justify Content
-- [ ] Justify Items, Align Items and Place Items
+- [x] Justify Items, Align Items and Place Items
         - Justify Items : verticle을 기준으로 넓이를 줄인다. 
         - align items : horizon을 기준으로 높이를 줄인다. 
         - place items : 위 2 설정의 short cut이다.
-- [ ] Grid Column, Column Start and End
-- [ ] Line Naming
+- [x] Grid Column, Column Start and End
+        - 한 셀이 column에 대해 얼마나 공간을 차지할 수 있는지 설정하는 기능
+- [x] Line Naming
+        - 각 라인에 대한 이름을 부여해서 컨트롤 할 수 있다. 자주 사용 x 
 - [ ] Grid Row, Row Start and End
 - [ ] Grid Area
 - [ ] Justify, Align, Place Self
