@@ -48,7 +48,8 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - 각 라인에 대한 이름을 부여해서 컨트롤 할 수 있다. 자주 사용 x 
 - [x] Grid Row, Row Start and End
         - span 값을 사용해서 한 셀의 크기의 값만 부여할 수 있다.
-- [ ] Grid Area
+- [x] Grid Area
+        - grid row start / grid column start / end / end 
 - [ ] Justify, Align, Place Self
 
 ### Using CSS4
