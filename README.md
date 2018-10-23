@@ -68,8 +68,10 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
         - declare css variables 
 - [x] @custom-selector
         - 특정 셀렉터에 대한 스타일 지정 가능 
-- [ ] @custom-media
-- [ ] Media Query Ranges
+- [x] @custom-media
+        - custom-media 변수 정의
+- [x] Media Query Ranges
+        - 변수 범위 지정시 <= > 와 같은 비교연산자 사용 가능 
 - [ ] color-mod, gray(), system-ui
 - [ ] Nesting Rules
 

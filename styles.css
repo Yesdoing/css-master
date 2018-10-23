@@ -19,6 +19,8 @@ li:not(.target) {
 } 
 */
 
+/* 
+    css variable
 :root {
     --awesomeColor : #2980b9;
 }
@@ -26,9 +28,24 @@ li:not(.target) {
 li:first-child a {
     color: var(--awesomeColor);
 }
+ */
 
+/* custom-selector
 @custom-selector :--header h1, h2, h3, h4, h5, h6;
 
 :--header {
     color: #8e44ad;
-}
+} 
+*/
+/* @custom-media
+@custom-media --ipad-size (max-width: 860px);
+ */
+
+/* media query range 
+@custom-media --ipad-size (450px <= width < 860px);
+
+@media(--ipad-size) {
+    body {
+        background-color: red;
+    }
+} */
