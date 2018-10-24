@@ -80,9 +80,9 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### Conclusions
 
-- [ ] CSS Grid Kiss
-- [ ] Practice Flexbox
-- [ ] Practice Grid
+- [x] CSS Grid Kiss
+- [x] Practice Flexbox
+- [x] Practice Grid
 
 ### Exercices
 
